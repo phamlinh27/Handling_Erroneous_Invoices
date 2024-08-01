@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handling_Erroneous_Invoices", "Handling_Erroneous_Invoices\Handling_Erroneous_Invoices.csproj", "{AE15B8E1-9567-4A66-B8A8-89EE9297C6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE15B8E1-9567-4A66-B8A8-89EE9297C6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE15B8E1-9567-4A66-B8A8-89EE9297C6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE15B8E1-9567-4A66-B8A8-89EE9297C6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE15B8E1-9567-4A66-B8A8-89EE9297C6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0CF2E4-D571-4777-A202-0C72EB327C4D}
+	EndGlobalSection
+EndGlobal
